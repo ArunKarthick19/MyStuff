@@ -1,5 +1,7 @@
 ## Run the Backend first
-
+![Image](https://github.com/user-attachments/assets/6cd9155a-45ba-4763-aec4-312e47d67bb5)
+![Image](https://github.com/user-attachments/assets/6ff9af65-3d5a-4378-b801-71057a184d02)
+![Image](https://github.com/user-attachments/assets/ff43e810-c401-40d5-8ea2-c1a26fefebed)
 Install Dependencies:
 ```bash
 cd backend
