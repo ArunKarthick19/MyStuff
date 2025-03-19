@@ -1,6 +1,5 @@
 ## Run the Backend first
 
-![Image](./DemoVideo/Demo.mp4)
 
 Install Dependencies:
 ```bash
