@@ -1,7 +1,7 @@
 ## Run the Backend first
 
 
-![test](C:\Users\arunk\Documents\Arun works\UNI WORKS\MyStuff\Projects\Deep Learning 2025\p\Screenshot 2025-04-14 023342.png)
+![test](p\Screenshot 2025-04-14 023342.png)
 
 
 Install Dependencies:
