@@ -1,7 +1,7 @@
 ## Run the Backend first
 
 
-![test](p\t.png)
+![test](p/t.png)
 
 
 Install Dependencies:
