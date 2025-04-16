@@ -13,7 +13,7 @@ const SERVER_IP = Platform.select({
 });
 
 // If using a physical device, you'll need to use your computer's actual IP on the network
-const SERVER_IP2 = '192.168.1.100'; // Replace with your actual IP
+//const SERVER_IP2 = '192.168.1.100'; // Replace with your actual IP
 
 const SERVER_URL = `http://192.168.1.100:5000`;
 console.log(`Using server URL: ${SERVER_URL}`);
