@@ -1,6 +1,7 @@
 ## Run the Backend first
 
 
+![Test](DemoVideo/Demogif.gif)
 
 
 
@@ -45,5 +46,4 @@ npm run dev
 Access frontend at http://localhost:3000
 
 
-![Test](DemoVideo/Demogif.gif)
 
