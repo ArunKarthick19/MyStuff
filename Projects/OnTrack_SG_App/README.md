@@ -1,9 +1,9 @@
-![Test](DemoVideo/PCgif.gif)
-![Test](DemoVideo/phonegif.gif)
-
-
-
 # MRT and LRT Station Information App
+
+<p align="center">
+  <img src="DemoVideo/PCgif.gif" width="600" alt="PC Demo">
+  <img src="DemoVideo/phonegif.gif" width="300" alt="Phone Demo">
+</p>
 
 This project is a mobile application designed to provide users with real-time information about MRT and LRT stations in Singapore. The app includes features such as train timings, crowd levels, and service alerts, making it a useful tool for commuters.
 
@@ -48,28 +48,39 @@ The backend is written in **Python** and includes:
    ```bash
    git clone https://github.com/your-repo-url.git
    cd your-project-folder
-3. Add your IPv4 address at the lines 52 and 18 in files HomePageUI.js and AlertsPageUI respectively(you may try running ipconfig on cmd to obtain your device's IPv4 address)  
-2. Install dependencies for the frontend:npm install
-3. Start the backend flask server: python main.py (cd into backend folder to run)
-4. Start the Expo development server: npm start (cd into the frontend folder to run)
-5. Scan the QR code generated following the npm start command, make sure to have expo go app on your device
+   ```
+2. Add your IPv4 address at the lines 52 and 18 in files HomePageUI.js and AlertsPageUI respectively (you may try running ipconfig on cmd to obtain your device's IPv4 address)
+3. Install dependencies for the frontend:
+   ```bash
+   npm install
+   ```
+4. Start the backend flask server:
+   ```bash
+   cd backend
+   python main.py
+   ```
+5. Start the Expo development server:
+   ```bash
+   cd frontend
+   npm start
+   ```
+6. Scan the QR code generated following the npm start command, make sure to have Expo Go app on your device
 
+## Usage
 
+- Launch the app and navigate to the Home tab to view the MRT map.
+- Tap on a station marker to view train timings, crowd levels, and other details.
+- Switch to the Alerts tab to view real-time service alerts.
 
-Usage
-Launch the app and navigate to the Home tab to view the MRT map.
-Tap on a station marker to view train timings, crowd levels, and other details.
-Switch to the Alerts tab to view real-time service alerts.
+## Technologies Used
 
+- **Frontend**: React Native, Expo
+- **Backend**: Python
+- **Navigation**: React Navigation
+- **Styling**: React Native Stylesheet
+- **Icons**: Ionicons
 
-Technologies Used
-Frontend: React Native, Expo
-Backend: Python
-Navigation: React Navigation
-Styling: React Native Stylesheet
-Icons: Ionicons
+## Acknowledgments
 
-Acknowledgments
-MRT Map: Data and images sourced from public transport authorities.
-React Native Community: For providing excellent tools and libraries.
-
+- **MRT Map**: Data and images sourced from public transport authorities.
+- **React Native Community**: For providing excellent tools and libraries.
