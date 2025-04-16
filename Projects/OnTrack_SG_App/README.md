@@ -1,4 +1,5 @@
-![Test](./DV/Demogif1.gif)
+![Test](DemoVideo/PCgif.gif)
+![Test](DemoVideo/phonegif.gif)
 
 
 
@@ -71,5 +72,4 @@ Icons: Ionicons
 Acknowledgments
 MRT Map: Data and images sourced from public transport authorities.
 React Native Community: For providing excellent tools and libraries.
-
 
