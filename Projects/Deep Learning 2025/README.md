@@ -1,8 +1,4 @@
-
-
-![Test](DemoVideo/DemoGIF.gif)
-
-
+![Test](DemoVideo/Demogif.gif)
 
 ## Run the Backend first
 
