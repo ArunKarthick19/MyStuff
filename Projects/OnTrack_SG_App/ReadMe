@@ -1,7 +1,8 @@
-# MRT and LRT Station Information App
+![Test1](DemoVideo/phonegif.gif)
+![Test2](DemoVideo/PCgif.gif)
 
-![Test](DemoVideo/phonegif.gif)
-![Test](DemoVideo/PCgif.gif)
+
+# MRT and LRT Station Information App
 
 This project is a mobile application designed to provide users with real-time information about MRT and LRT stations in Singapore. The app includes features such as train timings, crowd levels, and service alerts, making it a useful tool for commuters.
 
