@@ -1,5 +1,5 @@
 
-![Test](DemoVideo/Demogif.gif)
+![Test](DemoVideo/DemoGIF.gif)
 
 
 
