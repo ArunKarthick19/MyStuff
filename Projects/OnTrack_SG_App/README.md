@@ -1,4 +1,4 @@
-# MRT and LRT Station Information App
+# MRT and LRT Station Information App Read Me file
 
 <p align="center">
   <img src="DemoVideo/PCgif.gif" width="600" alt="PC Demo">
