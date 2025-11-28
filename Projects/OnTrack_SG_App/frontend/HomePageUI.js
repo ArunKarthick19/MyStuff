@@ -3,9 +3,9 @@ import { View, Text, StyleSheet, Image, Dimensions, TouchableOpacity, Modal, Sta
 import axios from 'axios';
 import ImageViewer from 'react-native-image-zoom-viewer';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import stationMarkers from './stationMarkers.js';
-import bplrtStationMarkers from './bpstationmarkers.js';
-import punggolStationMarkers from './punggolstationmarkers.js'; // Import Punggol station markers
+import stationMarkers from './stationMarkerscopy.js';
+import bplrtStationMarkers from './bpstationmarkerscopy.js';
+import punggolStationMarkers from './punggolstationmarkerscopy.js'; // Import Punggol station markers
 
 
 // Import images
@@ -49,7 +49,7 @@ const HomePageUI = () => {
   // Function to fetch station details from the backend
   const fetchStationDetails = async (stationCode) => {
     try {
-      const response = await axios.get(`http://192.168.1.100:5000/api/station/${stationCode}`);
+      const response = await axios.get(`http://192.168.18.11:5000/api/station/${stationCode}`);
       setSelectedStation(response.data);
       setModalVisible(true);
     } catch (error) {

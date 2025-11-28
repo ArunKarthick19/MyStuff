@@ -20,7 +20,7 @@ TRAIN_SERVICE_ALERT_URL = 'https://datamall2.mytransport.sg/ltaodataservice/Trai
 
 # Headers with Account Key
 AK = {
-    'AccountKey': ''  # Insert your AccountKey here. You may get your account key from LTA Data Mall
+    'AccountKey': 'qTB6383nRQ65AWSJS8PbZg=='  # Insert your AccountKey here. You may get your account key from LTA Data Mall
 }
 #I didn't include the account key in the code for security reasons. Please make sure to add your own account key here.
 
